@@ -36,7 +36,7 @@ management.endpoints.web.exposure.include=*
 
 ```
 
-## ENPOINTS
+## ENDPOINTS
 
 Swagger: 
 
@@ -47,5 +47,5 @@ Obs: para serem acessadas as rodas necessitam do header com valor
 
 Actuator: 
 
-Enpoint para consutar a saúde da aplição.
+Endpoint para consutar a saúde da aplição.
 http://localhost:8082/management
